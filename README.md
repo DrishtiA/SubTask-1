@@ -8,3 +8,5 @@ I am writing to introduce myself as a girl from Lucknow who loves to write, trav
 I also like learning new stuff.
 This is my first open source task.
 Looking forward to meet you. :)
+I want to contribute to open source as it gives exposure to the real world. 
+Further it also helps brush up skills.
